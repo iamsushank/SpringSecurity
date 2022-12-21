@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70975105-370f-4cf5-a79e-a0115d947e95" name="Changes" comment="" />
+    <list default="true" id="70975105-370f-4cf5-a79e-a0115d947e95" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/SpringSecurity/Lesson2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -32,6 +36,9 @@
       <option name="presentableId" value="Default" />
       <updated>1671087066437</updated>
       <workItem from="1671087067721" duration="93000" />
+      <workItem from="1671495897211" duration="202000" />
+      <workItem from="1671540920572" duration="128000" />
+      <workItem from="1671541052810" duration="54000" />
     </task>
     <servers />
   </component>
