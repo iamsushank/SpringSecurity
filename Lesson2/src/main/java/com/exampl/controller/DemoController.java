@@ -32,19 +32,6 @@ public class DemoController {
     @Autowired
     private ManageUserService manageUserService;
 
-//   ` @PostMapping("/register")
-//    public String registerUser( @RequestBody UserModel userModel){
-//
-//        if( userModelRepository.existsByMobileNumber( userModel.getMobileNumber() ) )
-//            throw new RuntimeException("User Already Exist");
-//
-//        userModel.setPassword( encoder.encode( userModel.getPassword() ) );
-//
-//        userModelRepository.save( userModel );
-//
-//        return " User Registered Successfully ";
-//
-//    }
 
 
     @PostMapping("/login")
